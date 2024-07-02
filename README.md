@@ -22,7 +22,7 @@ This project implements a generic K-ary tree container that supports various tra
 8. **myHeap**: Converts a binary tree to a min-heap and returns iterators for the resulting heap.
 
 ## Dependencies
-- C++17
+- C++
 - SFML library for GUI
 
 ## Classes
